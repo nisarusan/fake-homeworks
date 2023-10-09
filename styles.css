@@ -9,3 +9,10 @@
     font-family: "Helvetica Neue", sans-serif;
 }
 
+h1 {
+    display: none;
+}
+h2 {
+
+    display: inline;
+}
